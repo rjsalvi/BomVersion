@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>3.0.0.2</version>
-  <url>https://drive.google.com/uc?export=download&id=1bGJBwlWmqhzMHq1_hA5UhlYHzZAhydhJ</url>
+  <version>2.0.0.0</version>
+  <url>https://raw.githubusercontent.com/rjsalvi/BomVersion/refs/heads/main/Setup.msi</url>
   <changelog>https://example.com/yourapp/changelog</changelog>
   <mandatory>true</mandatory>
   <mode>2</mode>
